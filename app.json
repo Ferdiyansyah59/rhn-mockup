@@ -2,6 +2,7 @@
   "expo": {
     "name": "rhn-mockup",
     "slug": "rhn-mockup",
+    "description": "Pokoe gitu",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,6 +22,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.ferdirns.rhsmockup",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
